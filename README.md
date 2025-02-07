@@ -9,4 +9,4 @@
 
     - Instances: [Description](./files/SupplementaryMaterials_Instances.pdf), [Instances](./instances/)
 
-    - Parameter tuning: [Description](./files/SupplementaryMaterials_Instances.pdf)
+    - Parameter tuning: [Description](./files/SupplementaryMaterials_ParameterTuning.pdf)
