@@ -1,7 +1,7 @@
 ## Fuel convoy routing problem with dynamic demands (FCRPDD)
  
  
-- Articles:
+- Articles by [Prof. Luciano Perdigão Cota](https://lucianocota.github.io) for the FCRPDD:
 
   - A MILP formulation and an SILS-based algorithm for the fuel convoy routing problem with dynamic demands (submitted to Engineering Optimization in 2025)
 
